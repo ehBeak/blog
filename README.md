@@ -1,2 +1,0 @@
-# EunheeBaek.github.io
-blog
